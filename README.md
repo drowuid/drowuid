@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Rodrigues</h1>
-<h3 align="center">Frontend & Mobile Developer | Passionate about building great user experiences</h3>
+<h3 align="center">Junior Frontend & Mobile Developer | Passionate about building great user experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=drowuid&label=Profile%20views&color=0e75b6&style=flat" alt="drowuid" />
