@@ -31,7 +31,6 @@
 
 <p align="left">
   <!-- Icons as in your original list (no changes for brevity) -->
-  [Insert your icon block here – it's already solid]
 </p>
 
 ---
@@ -62,9 +61,7 @@
 
 ### 🔗 Extras (Optional)
 
-- 📝 [Blog (if you have one)](https://your-blog-link.com)  
+- 📝 [Blog](https://your-blog-link.com)  
 - 🚀 Featured Projects:  
-  - [Project 1 – Short Description](https://github.com/drowuid/project1)  
-  - [Project 2 – Short Description](https://github.com/drowuid/project2)
 
 ---
