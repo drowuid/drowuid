@@ -81,6 +81,15 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
   </a>
+  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+</a>
+<a href="https://developer.apple.com/macos/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS" />
+</a>
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</a>
 </p>
 
 ---
