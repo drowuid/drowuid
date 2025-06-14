@@ -10,9 +10,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working as a **Junior Software Developer** with a background in IT Support  
-- 🌱 I’m expanding my skills in **React Native**, **Kotlin**, **C#** and **cloud services**  
+- 🌱 I’m expanding my skills in **Laravel PHP framework**, **Kotlin**, **C#** and **cloud services**  
 - 👯 I love collaborating on **mobile and web app projects**  
-- 💬 Ask me about anything related to **frontend dev, mobile apps, or troubleshooting systems**  
+- 💬 I specialize in frontend development, mobile apps, and troubleshooting systems.**  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/pedrorod1988)  
 - ⚡ Fun fact: I’m a gamer and love learning new frameworks for fun
 
