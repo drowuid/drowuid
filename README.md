@@ -123,9 +123,3 @@
 
 ---
 
-### 🔗 Extras 
-
-- 📝 [Blog](https://your-blog-link.com)  
-- 🚀 Featured Projects:  
-
----
